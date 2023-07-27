@@ -42,4 +42,4 @@ dist-ssr
 .DS_Store
 .prettierignore
 
-starter-code
+public/starter-code
